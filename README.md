@@ -4,9 +4,9 @@
 Paper : https://arxiv.org/abs/1704.02971
 
 ## Requirements
-Tensorflow 2.3
-numpy
-pandas
+1. Tensorflow 2.3
+2. numpy
+3. pandas
 
 ## Dataset
 Dataset : https://dacon.io/competitions/official/235584/overview/
