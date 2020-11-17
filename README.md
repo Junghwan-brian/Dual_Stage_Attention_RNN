@@ -11,7 +11,10 @@ Paper : https://arxiv.org/abs/1704.02971
 
 ## Dataset
 Dataset : https://dacon.io/competitions/official/235584/overview/
+
 Data preprocessing : preprocess.py
+
+Preproeceesing data : https://drive.google.com/drive/folders/13LnUp21gizx5IRFyN0ExrepHZajsUImz?usp=sharing
 
 Data shape : inputs : [enc_data , dec_data]
              enc_data shape : batch,T,n
